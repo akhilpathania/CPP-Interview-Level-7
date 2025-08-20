@@ -1,0 +1,46 @@
+Folder PATH listing for volume Windows
+Volume serial number is 8261-8592
+C:.
+¦   .gitignore
+¦   directory_structure.txt
+¦   README.md
+¦   
++---01_Arrays_and_Strings
+¦       README.md
+¦       
++---02_Linked_Lists
+¦       README.md
+¦       
++---03_Stacks_and_Queues
+¦       README.md
+¦       
++---04_Trees
+¦       README.md
+¦       
++---05_Graphs
+¦       README.md
+¦       
++---06_Sorting_and_Searching
+¦       README.md
+¦       
++---07_Dynamic_Programming
+¦       README.md
+¦       
++---08_Recursion_and_Backtracking
+¦       README.md
+¦       
++---09_Bit_Manipulation
+¦       README.md
+¦       
++---10_Concurrency
+¦       README.md
+¦       
++---11_Tricky_Questions
+¦       README.md
+¦       
++---12_Miscellaneous
+¦       README.md
+¦       
++---templates
+        template.cpp
+        
